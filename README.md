@@ -41,7 +41,7 @@
 ## Insights
 
 - Large Screen View
-<img src="public\screenshot1.png" alt="desktop" width="80" height="80"/> 
+<img src="public\screenshot1.png" alt="desktop" width="220" height="110"/> 
 
 - Mobile Screen View
-<img src="public\screenshot2.png" alt="mobile" width="80" height="80"/> 
+<img src="public\screenshot2.png" alt="mobile" width="70" height="150"/> 
